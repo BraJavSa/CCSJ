@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70327944569",
+    "project_id": "ccsj-2024",
+    "storage_bucket": "ccsj-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70327944569:android:b4f4813bea319a7f7d9ba8",
+        "android_client_info": {
+          "package_name": "com.example.ccsj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpNo50b5VfHZrnI-d3BZJVRm50ypEp8Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
